@@ -1,7 +1,7 @@
 Welcome to PHP++ documentation!
 ===============================
 
-`PHP++<https://github.com/php-pp>`_ is a PHP library with this features:
+`PHP++ <https://github.com/php-pp>`_ is a PHP library with this features:
  * Install only what you need: PHP++ is a set of reusable components
  * Work with objects, do not use functions (example: ``fileatime()`` -> ``FileUtils::getAccessedAt()``)
  * Do not care about ``E_NOTICE`` and it's friends, all PHP errors are catched and replaced by an exception
@@ -21,5 +21,5 @@ Components
 Issues
 ------
 
-If you find an issue, go to `github.com/php-pp<https://github.com/php-pp>`_, select the component that has a problem
+If you find an issue, go to `github.com/php-pp <https://github.com/php-pp>`_, select the component that has a problem
 and create a ticket in the ``Issue`` tab.
