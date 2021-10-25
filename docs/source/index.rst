@@ -16,7 +16,7 @@ Compatibles PHP versions: from ``7.4`` to the ``latest``.
 Components
 ----------
 
-`See the list of components.</components>`_
+`See the list of components. </components>`_
 
 Issues
 ------
