@@ -3,8 +3,8 @@ Components
 
 PHP++ id a set of reusable components. You can use all of them of just the one you need.
 
-``-contracts`` components
--------------------------
+Contracts components
+--------------------
 
 When it's possible, a component has it's counterpart ``-contract`` with only interfaces.
 
@@ -16,6 +16,7 @@ Example:
 
 .. code-block:: php
     :emphasize-lines: 3
+
     // You need a StringCollection to work with it,
     // don't use StringCollection but StringCollectionInterface
     function foo(StringCollectionInterface $strings): void
@@ -39,8 +40,8 @@ Components
 Development components
 ----------------------
 
-+----------------------+--------------------------------------------+----------------------------------------------------------------+
-| Component            | Description                                | Github                                                         |
-+======================+============================================+========+=======================================================+
-| code-sniffer         | Code sniffer for PHP++ code style          | `github.com <https://github.com/php-pp/code-sniffer>`_         |
-+----------------------+--------------------------------------------+----------------------------------------------------------------+
++-------------------------------------------+-----------------------------------+
+| Component                                 | Description                       |
++===============================================================================+
+| `code-sniffer </component/code-sniffer>`_ | Code sniffer for PHP++ code style |
++-------------------------------------------------------------------------------+
