@@ -18,7 +18,7 @@ Example:
     :emphasize-lines: 4
 
     <?php
-    // You need a StringCollection to work with it,
+    // If you need a StringCollection to work with it,
     // don't use StringCollection but StringCollectionInterface
     function foo(StringCollectionInterface $strings): void
     {
@@ -44,5 +44,5 @@ Development components
 +-------------------------------------------+-----------------------------------+
 | Component                                 | Description                       |
 +===========================================+===================================+
-| `code-sniffer <component/code-sniffer>`_ | Code sniffer for PHP++ code style |
+| :ref:`code-sniffer`                       | Code sniffer for PHP++ code style |
 +-------------------------------------------+-----------------------------------+
