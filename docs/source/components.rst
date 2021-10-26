@@ -15,8 +15,9 @@ use the ``-contract`` dependency and work with interfaces.
 Example:
 
 .. code-block:: php
-    :emphasize-lines: 3
+    :emphasize-lines: 4
 
+    <?php
     // You need a StringCollection to work with it,
     // don't use StringCollection but StringCollectionInterface
     function foo(StringCollectionInterface $strings): void
@@ -42,6 +43,6 @@ Development components
 
 +-------------------------------------------+-----------------------------------+
 | Component                                 | Description                       |
-+===============================================================================+
-| `code-sniffer </component/code-sniffer>`_ | Code sniffer for PHP++ code style |
-+-------------------------------------------------------------------------------+
++===========================================+===================================+
+| `code-sniffer <component/code-sniffer>`_ | Code sniffer for PHP++ code style |
++-------------------------------------------+-----------------------------------+
