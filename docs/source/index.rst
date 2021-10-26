@@ -23,3 +23,10 @@ Issues
 
 If you find an issue, go to `github.com/php-pp <https://github.com/php-pp>`_, select the component that has a problem
 and create a ticket in the ``Issue`` tab.
+
+Contents
+--------
+
+.. toctree::
+
+   components
