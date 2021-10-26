@@ -19,6 +19,8 @@ Components
 
 `See the list of components. <components>`_
 
+:ref:`components`
+
 Issues
 ------
 
