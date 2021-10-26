@@ -10,9 +10,10 @@ When it's possible, a component has it's counterpart ``-contract`` with only int
 
 If you don't need to use our implementation of this interfaces
 (you just need a typehint, you want to create your own implementation etc),
-add the ``-contract`` dependency and work with interfaces.
+use the ``-contract`` dependency and work with interfaces.
 
 Example:
+
 .. code-block:: php
     :emphasize-lines: 3
     // You need a StringCollection to work with it,
