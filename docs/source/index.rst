@@ -5,6 +5,7 @@ Welcome to PHP++ documentation!
  * Install only what you need: PHP++ is a set of reusable components
  * Work with objects, do not use functions (example: ``fileatime()`` -> ``FileUtils::getAccessedAt()``)
  * Do not care about ``E_NOTICE`` and it's friends, all PHP errors are catched and replaced by an exception
+ * No more problems with parameters position or multiple return types: everything is typed and errors are converted as exception
  * Replace ``array`` by ``Collection`` with only one type allowed (example: ``StringCollection``)
 
 Compatibles PHP versions: from ``7.4`` to the ``latest``.
