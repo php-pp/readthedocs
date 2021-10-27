@@ -29,7 +29,16 @@ Contents
 --------
 
 .. toctree::
-    :hidden:
+   :caption: PHP++
+   :maxdepth: 1
+   :hidden:
 
-    components
-        component/code-sniffer/index
+   components
+
+.. toctree::
+   :caption: Components
+   :maxdepth: 1
+   :hidden:
+
+   component/code-sniffer
+   component/code-sniffer/index
