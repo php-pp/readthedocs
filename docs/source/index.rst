@@ -40,6 +40,4 @@ Contents
    :maxdepth: 1
    :hidden:
 
-   components
-   component/code-sniffer
    component/code-sniffer/index
