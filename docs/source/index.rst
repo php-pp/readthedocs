@@ -15,18 +15,18 @@ Compatibles PHP versions: from ``7.4`` to the ``latest``.
    This project is under active development.
 
 Components
-----------
+==========
 
 `See the list of components. <components.html>`_
 
 Issues
-------
+======
 
 If you find an issue, go to `github.com/php-pp <https://github.com/php-pp>`_, select the component that has a problem
 and create a ticket in the ``Issue`` tab.
 
 Contents
---------
+========
 
 .. toctree::
    :caption: PHP++
@@ -40,5 +40,6 @@ Contents
    :maxdepth: 1
    :hidden:
 
+   components
    component/code-sniffer
    component/code-sniffer/index
