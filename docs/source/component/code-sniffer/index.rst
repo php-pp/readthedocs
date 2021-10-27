@@ -1,5 +1,5 @@
-php-pp/code-sniffer
-===================
+Code sniffer
+============
 
 +----------------------+---------------------------------------------------------------------------------+
 | Latest version       | `dev-master <https://github.com/php-pp/code-sniffer/tree/master>`_              |
