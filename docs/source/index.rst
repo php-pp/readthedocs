@@ -29,5 +29,7 @@ Contents
 --------
 
 .. toctree::
+    :hidden:
 
-   components
+    components
+        component/code-sniffer/index
