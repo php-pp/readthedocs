@@ -44,5 +44,5 @@ Development components
 +-------------------------------------------+-----------------------------------+
 | Component                                 | Description                       |
 +===========================================+===================================+
-| :ref:`component/code-sniffer`             | Code sniffer for PHP++ code style |
+| `code-sniffer <code-sniffer/index.html>`_ | Code sniffer for PHP++ code style |
 +-------------------------------------------+-----------------------------------+
