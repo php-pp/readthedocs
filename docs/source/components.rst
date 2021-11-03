@@ -1,42 +1,19 @@
 Components
 ==========
 
-PHP++ id a set of reusable components. You can use all of them of just the one you need.
+PHP++ est un ensemble de composants.
 
-Contracts components
---------------------
-
-When it's possible, a component has it's counterpart ``-contract`` with only interfaces.
-
-If you don't need to use our implementation of this interfaces
-(you just need a typehint, you want to create your own implementation etc),
-use the ``-contract`` dependency and work with interfaces.
-
-Example:
-
-.. code-block:: php
-    :emphasize-lines: 4
-
-    <?php
-    // If you need a StringCollection to work with it,
-    // don't use StringCollection but StringCollectionInterface
-    function foo(StringCollectionInterface $strings): void
-    {
-        // Do some stuff here with $strings
-    }
+Vous pouvez utiliser chaque composant séparément, aucun composant n'est obligatoire :
+c'est à vous de décider d'installer ce dont vous avez besoin !
 
 Components
 ----------
 
-+----------------------+--------------------------------------------+
-| Component            | Description                                |
-+======================+============================================+
-| collection           | Replace array by a strict typed collection |
-+----------------------+--------------------------------------------+
-| collection-contracts | Contracts for collection                   |
-+----------------------+--------------------------------------------+
-| collection-generator | Helps you to generate a Collection         |
-+----------------------+--------------------------------------------+
++-------------------------------------------------+----------------------------------------------------------+
+| Component                                       | Description                                              |
++=================================================+==========================================================+
+| `collection <component/collection/index.html>`_ | Modèle objet pour remlacer ``array`` par une liste typée |
++-------------------------------------------------+----------------------------------------------------------+
 
 Development components
 ----------------------

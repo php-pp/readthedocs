@@ -34,6 +34,7 @@ Contents
    :hidden:
 
    components
+   contracts
 
 .. toctree::
    :caption: Components
