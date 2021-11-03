@@ -1,5 +1,5 @@
 Découpage en composants
-==
+===
 
 PHP++ est un ensemble de composants.
 
@@ -18,7 +18,7 @@ Les composants
 +-------------------------------------------------+----------------------------------------------------------+
 
 Les composants pour le développement
-----
+---
 
 .. note::
 
@@ -34,7 +34,7 @@ Les composants pour le développement
 
 
 Les composants pour la CI
------
+---
 
 .. note::
 
