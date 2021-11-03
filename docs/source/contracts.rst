@@ -1,5 +1,5 @@
 Contracts
-===
+=========
 
 Quand c'est possible, un composant n'est qu'une implémentation d'interfaces, qu'on appelle des contrats.
 
@@ -8,7 +8,7 @@ Ces interfaces se trouvent dans un repository qui a le même nom que le composan
 Vous pouvez créer votre propre implémentation tant que vous respectez tous les contrats.
 
 Composants avec des contrats
----
+----------------------------
 
 +-------------------------------------------------+-------------------------------------------------------------+
 | Composant                                       | Contrat                                                     |
@@ -17,7 +17,7 @@ Composants avec des contrats
 +-------------------------------------------------+-------------------------------------------------------------+
 
 Example d'utilisation
----
+---------------------
 
 Si vous utilisez le composant `collection <component/collection/index.html>`_,
 vous pouvez typer un paramètre avec ``StringCollection``.

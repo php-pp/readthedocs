@@ -1,5 +1,5 @@
 Welcome to PHP++ documentation!
-===
+===============================
 
 `PHP++ <https://github.com/php-pp>`_ is a PHP library with this features:
  * Install only what you need: PHP++ is a set of reusable components
@@ -15,12 +15,12 @@ Compatibles PHP versions: from ``7.4`` to the ``latest``.
    This project is under active development.
 
 Components
----
+----------
 
 `See the list of components. <components.html>`_
 
 Issues
----
+------
 
 If you find an issue, go to `github.com/php-pp <https://github.com/php-pp>`_, select the component that has a problem
 and create a ticket in the ``Issue`` tab.
