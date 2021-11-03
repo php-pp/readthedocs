@@ -37,7 +37,21 @@ Contents
    contracts
 
 .. toctree::
-   :caption: Components
+   :caption: Composants
+   :maxdepth: 1
+   :hidden:
+
+   component/collection/index
+
+.. toctree::
+   :caption: Composants pour le développement
+   :maxdepth: 1
+   :hidden:
+
+   component/backtrace/index
+
+.. toctree::
+   :caption: Composants pour la CI
    :maxdepth: 1
    :hidden:
 

@@ -1,5 +1,5 @@
-Code sniffer
-============
+Collection
+==
 
 +----------------------+---------------------------------------------------------------------------------+
 | Source code          | `github.com <https://github.com/php-pp/code-sniffer>`_                          |

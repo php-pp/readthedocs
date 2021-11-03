@@ -9,7 +9,7 @@ c'est à vous de choisir d'installer ce dont vous avez besoin !
 Chaque composant peut être séparé en plusieurs repositories en fonction des besoins.
 
 Les composants
---
+---
 
 +-------------------------------------------------+----------------------------------------------------------+
 | Component                                       | Description                                              |
@@ -18,7 +18,7 @@ Les composants
 +-------------------------------------------------+----------------------------------------------------------+
 
 Les composants pour le développement
---
+----
 
 .. note::
 
@@ -34,7 +34,7 @@ Les composants pour le développement
 
 
 Les composants pour la CI
---
+-----
 
 .. note::
 
